@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.1](https://github.com/aMiing/menorepo/compare/v0.2.0...v0.2.1) (2022-08-14)
+
+
+### Bug Fixes
+
+* pkg2-打印日志测试 ([16f17cb](https://github.com/aMiing/menorepo/commit/16f17cb94a19bf9fe98cd91e32a401402c52f907))
+
+
+
+
+
 # [0.2.0](https://github.com/aMiing/menorepo/compare/v0.1.0...v0.2.0) (2022-08-14)
 
 
