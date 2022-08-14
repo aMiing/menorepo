@@ -1,0 +1,25 @@
+{
+  "name": "pk2",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "wangcm1 <wangcm1@getui.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/pk2.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmmirror.com/"
+  },
+  "scripts": {
+    "test": "node ./__tests__/pk2.test.js"
+  },
+  "dependencies": {
+    "eslint": "^8.22.0"
+  }
+}
