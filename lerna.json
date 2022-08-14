@@ -1,14 +1,19 @@
 {
   "npmClient": "npm",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "command": {
     "version": {
       "conventionalCommits": true
     },
     "publish": {
-      "ignoreChanges": ["*.md", "**/test/**"],
+      "ignoreChanges": [
+        "*.md",
+        "**/test/**"
+      ],
       "message": "chore(release): publish"
     }
   },
-  "packages": ["packages/*"]
+  "packages": [
+    "packages/*"
+  ]
 }
