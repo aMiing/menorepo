@@ -7,3 +7,4 @@ function pk2() {
 }
 
 console.log('pkg222111')
+console.log('pkg222111')
