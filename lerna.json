@@ -1,10 +1,11 @@
 {
   "npmClient": "npm",
-  "version": "0.2.6",
+  "version": "independent",
   "useWorkspaces": true,
   "command": {
     "version": {
-      "conventionalCommits": true
+      "//": "通过常规提交确定版本",
+      "conventionalCommits": false
     },
     "publish": {
       "ignoreChanges": [
